@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: e906bbddcfe554245bc62c8735adac87
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Barrel---B-125
+    100002: Barrel---M-124
+    100004: Barrel---S-126
+    100006: Base1
+    100008: Bit-for-mi-13
+    100010: knob1k-130
+    100012: knob1k-131
+    100014: knob1k-238
+    100016: knob1k-239
+    100018: knob1s-129
+    100020: knob1s-240
+    100022: knob2k-128
+    100024: knob2k-234
+    100026: knob2s-127
+    100028: knob2s-235
+    100030: Lens-Spindle---Barrel23
+    100032: Lens-Spindle14
+    100034: Main-Arm-14
+    100036: //RootNode
+    100038: Microscope-Sans-Lenses5
+    100040: Microscope-Sans-Lenses6
+    100042: Microscope-Sans-Lenses7
+    100044: Microscope-Sans-Lenses8
+    100046: Microscope-Sans-Lenses9
+    100048: Obj-000001-118
+    100050: Obj-000002-117
+    100052: Obj-000003-116
+    100054: Obj-000004-115
+    100056: Obj-000005-113
+    100058: Obj-000006-112
+    100060: Obj-000007-111
+    100062: Obj-000008-110
+    100064: Obj-000009-122
+    100066: Obj-000010-121
+    100068: Obj-000011-120
+    100070: Obj-000012-119
+    100072: screw1-004-132
+    100074: screw1-004-237
+    100076: screw1-133
+    100078: screw1-236
+    100080: tray-12
+    400000: Barrel---B-125
+    400002: Barrel---M-124
+    400004: Barrel---S-126
+    400006: Base1
+    400008: Bit-for-mi-13
+    400010: knob1k-130
+    400012: knob1k-131
+    400014: knob1k-238
+    400016: knob1k-239
+    400018: knob1s-129
+    400020: knob1s-240
+    400022: knob2k-128
+    400024: knob2k-234
+    400026: knob2s-127
+    400028: knob2s-235
+    400030: Lens-Spindle---Barrel23
+    400032: Lens-Spindle14
+    400034: Main-Arm-14
+    400036: //RootNode
+    400038: Microscope-Sans-Lenses5
+    400040: Microscope-Sans-Lenses6
+    400042: Microscope-Sans-Lenses7
+    400044: Microscope-Sans-Lenses8
+    400046: Microscope-Sans-Lenses9
+    400048: Obj-000001-118
+    400050: Obj-000002-117
+    400052: Obj-000003-116
+    400054: Obj-000004-115
+    400056: Obj-000005-113
+    400058: Obj-000006-112
+    400060: Obj-000007-111
+    400062: Obj-000008-110
+    400064: Obj-000009-122
+    400066: Obj-000010-121
+    400068: Obj-000011-120
+    400070: Obj-000012-119
+    400072: screw1-004-132
+    400074: screw1-004-237
+    400076: screw1-133
+    400078: screw1-236
+    400080: tray-12
+    2100000: Material1
+    2100002: Material2
+    2100004: Material3
+    2100006: Material4
+    2100008: Material5
+    2100010: Material6
+    2100012: Material7
+    2100014: Material8
+    2100016: Material9
+    2100018: Material10
+    2100020: Material11
+    2100022: Material12
+    2100024: Material13
+    2100026: Material14
+    2100028: Material15
+    2100030: Material16
+    2100032: Material17
+    2100034: Material18
+    2100036: Material19
+    2100038: Material20
+    2100040: Material21
+    2100042: Material22
+    2100044: Material23
+    2100046: Material24
+    2100048: Material25
+    2100050: Material26
+    2100052: Material27
+    2100054: Material28
+    2100056: Material29
+    2100058: Material30
+    2100060: Material31
+    2100062: Material32
+    2100064: Material33
+    2100066: Material34
+    2100068: Material35
+    2100070: Material36
+    2100072: Material37
+    2100074: Material38
+    2300000: Barrel---B-125
+    2300002: Barrel---M-124
+    2300004: Barrel---S-126
+    2300006: Base1
+    2300008: Bit-for-mi-13
+    2300010: knob1k-130
+    2300012: knob1k-131
+    2300014: knob1k-238
+    2300016: knob1k-239
+    2300018: knob1s-129
+    2300020: knob1s-240
+    2300022: knob2k-128
+    2300024: knob2k-234
+    2300026: knob2s-127
+    2300028: knob2s-235
+    2300030: Lens-Spindle---Barrel23
+    2300032: Lens-Spindle14
+    2300034: Main-Arm-14
+    2300036: Microscope-Sans-Lenses5
+    2300038: Microscope-Sans-Lenses6
+    2300040: Microscope-Sans-Lenses7
+    2300042: Microscope-Sans-Lenses8
+    2300044: Microscope-Sans-Lenses9
+    2300046: Obj-000001-118
+    2300048: Obj-000002-117
+    2300050: Obj-000003-116
+    2300052: Obj-000004-115
+    2300054: Obj-000005-113
+    2300056: Obj-000006-112
+    2300058: Obj-000007-111
+    2300060: Obj-000008-110
+    2300062: Obj-000009-122
+    2300064: Obj-000010-121
+    2300066: Obj-000011-120
+    2300068: Obj-000012-119
+    2300070: screw1-004-132
+    2300072: screw1-004-237
+    2300074: screw1-133
+    2300076: screw1-236
+    2300078: tray-12
+    3300000: Barrel---B-125
+    3300002: Barrel---M-124
+    3300004: Barrel---S-126
+    3300006: Base1
+    3300008: Bit-for-mi-13
+    3300010: knob1k-130
+    3300012: knob1k-131
+    3300014: knob1k-238
+    3300016: knob1k-239
+    3300018: knob1s-129
+    3300020: knob1s-240
+    3300022: knob2k-128
+    3300024: knob2k-234
+    3300026: knob2s-127
+    3300028: knob2s-235
+    3300030: Lens-Spindle---Barrel23
+    3300032: Lens-Spindle14
+    3300034: Main-Arm-14
+    3300036: Microscope-Sans-Lenses5
+    3300038: Microscope-Sans-Lenses6
+    3300040: Microscope-Sans-Lenses7
+    3300042: Microscope-Sans-Lenses8
+    3300044: Microscope-Sans-Lenses9
+    3300046: Obj-000001-118
+    3300048: Obj-000002-117
+    3300050: Obj-000003-116
+    3300052: Obj-000004-115
+    3300054: Obj-000005-113
+    3300056: Obj-000006-112
+    3300058: Obj-000007-111
+    3300060: Obj-000008-110
+    3300062: Obj-000009-122
+    3300064: Obj-000010-121
+    3300066: Obj-000011-120
+    3300068: Obj-000012-119
+    3300070: screw1-004-132
+    3300072: screw1-004-237
+    3300074: screw1-133
+    3300076: screw1-236
+    3300078: tray-12
+    4300000: Base1
+    4300002: tray-12
+    4300004: Bit-for-mi-13
+    4300006: Main-Arm-14
+    4300008: Microscope-Sans-Lenses5
+    4300010: Microscope-Sans-Lenses6
+    4300012: Microscope-Sans-Lenses7
+    4300014: Microscope-Sans-Lenses8
+    4300016: Microscope-Sans-Lenses9
+    4300018: Obj-000008-110
+    4300020: Obj-000007-111
+    4300022: Obj-000006-112
+    4300024: Obj-000005-113
+    4300026: Lens-Spindle14
+    4300028: Obj-000004-115
+    4300030: Obj-000003-116
+    4300032: Obj-000002-117
+    4300034: Obj-000001-118
+    4300036: Obj-000012-119
+    4300038: Obj-000011-120
+    4300040: Obj-000010-121
+    4300042: Obj-000009-122
+    4300044: Lens-Spindle---Barrel23
+    4300046: Barrel---M-124
+    4300048: Barrel---B-125
+    4300050: Barrel---S-126
+    4300052: knob2s-127
+    4300054: knob2k-128
+    4300056: knob1s-129
+    4300058: knob1k-130
+    4300060: knob1k-131
+    4300062: screw1-004-132
+    4300064: screw1-133
+    4300066: knob2k-234
+    4300068: knob2s-235
+    4300070: screw1-236
+    4300072: screw1-004-237
+    4300074: knob1k-238
+    4300076: knob1k-239
+    4300078: knob1s-240
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material1
+    second: {fileID: 2100000, guid: c6a9f89a5ddccbf448584a0597eb2de3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material10
+    second: {fileID: 2100000, guid: be494dff125d3a145b0707017ae80462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material11
+    second: {fileID: 2100000, guid: a1d5c1a5b5f13fa43a14acfd4f86d8c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material12
+    second: {fileID: 2100000, guid: 5989bcbdd57e5504d9f7f31662468f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material13
+    second: {fileID: 2100000, guid: 2e1f38bdd0a8a124d9b632a1c87bc396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material14
+    second: {fileID: 2100000, guid: c1fe9bd43b0c9af4f91ee2d06b7a053c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material15
+    second: {fileID: 2100000, guid: 0009507920c995a4fa9132d552e339f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material16
+    second: {fileID: 2100000, guid: 96c5ebe538db7e545a64e28d20b94458, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material17
+    second: {fileID: 2100000, guid: d2c78144d89e60f4d914e77162835ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material18
+    second: {fileID: 2100000, guid: d557f986bdb457848b9980f92732bb3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material19
+    second: {fileID: 2100000, guid: cb9eba498f3382e45b3095956c518de2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2
+    second: {fileID: 2100000, guid: 01806948bd4d1154d8b7406deeed243f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material20
+    second: {fileID: 2100000, guid: ae0b6183417614b43a6e258b010c4aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material21
+    second: {fileID: 2100000, guid: d416fb680e4653442964717616339ef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material22
+    second: {fileID: 2100000, guid: 1cdaf4e22fba38c408506372e2b75885, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material23
+    second: {fileID: 2100000, guid: 9420acf3afafd524e9635fbf413d5947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material24
+    second: {fileID: 2100000, guid: 4402ac8fc6d941349a034d8bbdb59770, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material25
+    second: {fileID: 2100000, guid: 527a6f70a021ba1418aefba5a6ba2f33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material26
+    second: {fileID: 2100000, guid: 29ae8a88e0942a74ead5339b527e1e0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material27
+    second: {fileID: 2100000, guid: b505fa4e86c175a43be21982c19ef9a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material28
+    second: {fileID: 2100000, guid: a7e116969dcc69347873d49bdd0a0aa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material29
+    second: {fileID: 2100000, guid: 3ac3403437b564c41ae55972a38c5394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material3
+    second: {fileID: 2100000, guid: 2971678e39efebc4cb48272e90dfdeb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material30
+    second: {fileID: 2100000, guid: c86c9f50046673f4c8872ace685e7552, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material31
+    second: {fileID: 2100000, guid: 13128e9c64238a94ca2740c633738346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material32
+    second: {fileID: 2100000, guid: d804e876d2da65a4f96e5c930306bda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material33
+    second: {fileID: 2100000, guid: 3452c82f6913b5a4aa7acef03e297e4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material34
+    second: {fileID: 2100000, guid: 3054a38d3c18c9443b119249f46bf096, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material35
+    second: {fileID: 2100000, guid: 87c91e753cec77142b30e58b64f7f53b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material36
+    second: {fileID: 2100000, guid: 92cfb94add815ad47812e90f60f6be88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material37
+    second: {fileID: 2100000, guid: 2fd8dd233ce6bff4e9510976ac5587b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material38
+    second: {fileID: 2100000, guid: b140f576be6927f4d93594641ec1301c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material4
+    second: {fileID: 2100000, guid: 6db5f168b27476143b9311e5a2068aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material5
+    second: {fileID: 2100000, guid: 3935f08f1d5aba845b12f82053a03499, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material6
+    second: {fileID: 2100000, guid: c87509678d797644db0586d0c64dd584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material7
+    second: {fileID: 2100000, guid: 96e9bf4aaf5cc204aa1972714556eafc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material8
+    second: {fileID: 2100000, guid: b851612164337344b85a0f63ea0d7432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material9
+    second: {fileID: 2100000, guid: ec9cfcc1e67df804e9016d4ae0631562, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

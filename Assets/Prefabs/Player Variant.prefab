@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3609807249726082414
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1245743092641886, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
+      propertyPath: m_Name
+      value: Player Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 114115898220435280, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
+      propertyPath: _controllerRight
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5117832085358188470, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
+      propertyPath: profile
+      value: 
+      objectReference: {fileID: 11400000, guid: 1947d179503829949899586692e246c7, type: 2}
+    - target: {fileID: 4413911277451360787, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
+      propertyPath: viewIdField
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413911277451360787, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
+      propertyPath: instantiationId
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4413911277451360787, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 114115898220435280, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
+      propertyPath: _tablePrefab
+      value: 
+      objectReference: {fileID: 1741548581936074354, guid: 1d3d4723154b0bc45b71bdd10f435c28, type: 3}
+    m_RemovedComponents:
+    - {fileID: 7290670581976719515, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
+    - {fileID: 4413911277451360787, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: b1427b4ea3b152f45957e32879ad122f, type: 3}
